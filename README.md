@@ -1,5 +1,5 @@
 # Minsoon-CS2-Software
-A cs2 software.
+A free working CS2 software.
 
 
 
