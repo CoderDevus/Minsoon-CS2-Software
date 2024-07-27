@@ -58,6 +58,8 @@ Drag and drop elements (box, money, defusing etc.)
 3. Run Minsoon
 4. Enjoy!
 
+Download the software in the releases tab.
+
 INFO: Make sure to keep your game closed before opening the launcher, You need to open it and then open cs2.
 
 
